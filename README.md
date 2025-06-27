@@ -16,10 +16,9 @@ This project implements a complete machine learning pipeline to predict the like
 
 ## Dataset
 
-- The dataset contains demographic details and results from ASD screening questions.
-- **Target variable**: Whether the individual is likely to have ASD (1 = yes, 0 = no)
-- Dataset source: [UCI Machine Learning Repository – Autism Screening Data](https://archive.ics.uci.edu/ml/datasets/Autism+Screening+Adult)
-
+- The dataset is sourced from a [Kaggle competition on Autism Diagnosis](https://www.kaggle.com/competitions/autismdiagnosis/data)
+- It includes demographic information and answers to a set of 10 ASD screening questions.
+- **Target variable**: Whether an individual is likely to have ASD (1 = yes, 0 = no)
 ---
 
 ## Workflow Summary
