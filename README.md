@@ -14,7 +14,7 @@ This project implements a complete machine learning pipeline to predict the like
 
 ---
 
-## 🔍 Dataset
+## Dataset
 
 - The dataset contains demographic details and results from ASD screening questions.
 - **Target variable**: Whether the individual is likely to have ASD (1 = yes, 0 = no)
